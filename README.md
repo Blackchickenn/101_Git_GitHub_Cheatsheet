@@ -1,3 +1,6 @@
+### GIT Install
+
+
 ### GIT Basics
 **ACTIVATE** GIT for project (Needs to be in **correct folder!!**)
 ```
