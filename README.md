@@ -1,4 +1,17 @@
 ### GIT Install
+**CHECK** in terminal if there is a GIT installed
+```
+git --version
+```
+if there is **NO** git installed
+```
+sudo apt install git
+```
+**SETUP** the *name* and *email* from GITHUB
+```
+git config --global user.name "yourname"
+git config --global user.email "your@email.com"
+```
 
 
 ### GIT Basics
